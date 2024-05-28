@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT SSH.md",
+                "file": "Linux/Bandit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6f99d7c3d20ed27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSH.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT SSH.md",
+                "file": "SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT SSH.md",
+                "file": "SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT SSH.md"
+                "file": "SSH.md"
               }
             }
           }
@@ -146,9 +159,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6fdd36572c05cc21",
+  "active": "f6f99d7c3d20ed27",
   "lastOpenFiles": [
+    "Linux/Bandit.md",
+    "SSH.md",
+    "Linux/Comandos/grep.md",
+    "Linux/Ruta relativa y ruta absoluta.md",
+    "Linux/Comandos para trabajar con archivos y directorios.md",
+    "Linux/Comandos",
+    "Config/Configuración de Fedora.md",
     "GIT SSH.md",
+    "Config",
+    "Linux",
+    "GIT",
     "Welcome.md"
   ]
 }

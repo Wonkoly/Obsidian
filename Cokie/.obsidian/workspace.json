@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "f6f99d7c3d20ed27",
+            "id": "5969f259f8374d4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSH.md",
+                "file": "Redes/Protocolos/ICMP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8273e82bb1afe972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/OS/Comandos Nativos de Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSH.md",
+                "file": "Redes/Protocolos/ICMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSH.md",
+                "file": "Redes/Protocolos/ICMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSH.md"
+                "file": "Redes/Protocolos/ICMP.md"
               }
             }
           }
@@ -159,13 +171,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f6f99d7c3d20ed27",
+  "active": "5969f259f8374d4e",
   "lastOpenFiles": [
+    "Linux/OS/Comandos Nativos de Linux.md",
+    "Redes/Protocolos",
+    "Redes",
+    "Linux/OS",
+    "Redes/Protocolos/ICMP.md",
     "Linux/Bandit.md",
-    "SSH.md",
+    "Cisco/introducción  al ciberseguridad.md",
+    "Linux/SSH.md",
+    "Cisco",
+    "`find`.md",
+    "Linux/Comandos/find.md",
     "Linux/Comandos/grep.md",
-    "Linux/Ruta relativa y ruta absoluta.md",
-    "Linux/Comandos para trabajar con archivos y directorios.md",
+    "Linux/OS/Ruta relativa y ruta absoluta.md",
+    "Linux/OS/Comandos para trabajar con archivos y directorios.md",
     "Linux/Comandos",
     "Config/Configuración de Fedora.md",
     "GIT SSH.md",
